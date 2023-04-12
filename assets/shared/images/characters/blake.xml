@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blake.png"><SubTexture name="blake down0000" x="1804" y="545" width="440" height="521" frameX="-41" frameY="-51" frameWidth="509" frameHeight="652" />
+<SubTexture name="blake down0001" x="0" y="1725" width="440" height="452" frameX="-41" frameY="-120" frameWidth="509" frameHeight="652" />
+<SubTexture name="blake hurt0000" x="1804" y="0" width="440" height="545" frameX="-2" frameY="-12" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake hurt0001" x="1804" y="0" width="440" height="545" frameX="-2" frameY="-12" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake idle0000" x="0" y="596" width="440" height="568" frameX="-26" frameY="-13" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake left0000" x="1320" y="562" width="449" height="561" frameX="-20" frameY="-1" frameWidth="472" frameHeight="642" />
+<SubTexture name="blake left0001" x="0" y="1164" width="468" height="561" frameX="-4" frameY="-1" frameWidth="472" frameHeight="642" />
+<SubTexture name="blake missdown0000" x="1804" y="1066" width="440" height="521" frameX="-30" frameY="-47" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missdown0001" x="1804" y="1066" width="440" height="521" frameX="-30" frameY="-47" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missleft0000" x="468" y="1164" width="449" height="561" frameX="-20" frameY="-1" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missleft0001" x="468" y="1164" width="449" height="561" frameX="-20" frameY="-1" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missright0000" x="917" y="1164" width="466" height="557" frameX="-2" frameY="0" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missright0001" x="917" y="1164" width="466" height="557" frameX="-2" frameY="0" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missup0000" x="440" y="0" width="440" height="569" frameX="-25" frameY="-55" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake missup0001" x="440" y="0" width="440" height="569" frameX="-25" frameY="-55" frameWidth="475" frameHeight="661" />
+<SubTexture name="blake right0000" x="440" y="596" width="466" height="562" frameX="-23" frameY="0" frameWidth="642" frameHeight="642" />
+<SubTexture name="blake right0001" x="1320" y="0" width="484" height="562" frameX="-10" frameY="0" frameWidth="642" frameHeight="642" />
+<SubTexture name="blake up0000" x="880" y="0" width="440" height="569" frameX="-68" frameY="-57" frameWidth="563" frameHeight="706" />
+<SubTexture name="blake up0001" x="0" y="0" width="440" height="596" frameX="-68" frameY="-30" frameWidth="563" frameHeight="706" />
+</TextureAtlas>
